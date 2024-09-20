@@ -1,5 +1,5 @@
-Name: Rohit Gupta
-University : IIT Bhubaneswar
+Name: Rohit Gupta ,
+University : IIT Bhubaneswar ,
 Department : Civil engineering 
 
 # Messaging App
