@@ -1,3 +1,7 @@
+Name: Rohit Gupta
+University : IIT Bhubaneswar
+Department : Civil engineering 
+
 # Messaging App
 
 This is a simple messaging app where users can create an account, log in, and chat with others in real time. The app consists of both backend and frontend components.
